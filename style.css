@@ -163,11 +163,9 @@ a:hover
 
 
 
-
 @media screen and (max-width : 600px)
 {
     .mountain-img
- 
     {
         width : 100%;
         margin-top: 20px;
@@ -184,6 +182,6 @@ a:hover
     {
         position: absolute;
         right: 40px;
-        top: 50px;
+        top: 51px;
     }
 }
